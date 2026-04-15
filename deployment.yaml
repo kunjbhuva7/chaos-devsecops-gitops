@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: chaos-app
-          image: image: kunj22/chaos-devsecops:18
+          image: kunj22/chaos-devsecops:18
           ports:
             - containerPort: 5000
